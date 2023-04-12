@@ -112,7 +112,7 @@ void return_book() {
 //查看所有图书
 void display_all_books()
 {
-    printf("所有图书如下：\n");
+    printf("所有员工如下：\n");
     for (int i = 0; i < num_books; i++) {
         printf("%d.书名: %s 作者: %s,  出版年份: %d, 可借数量: %d\n", i + 1, library[i].title, library[i].author, library[i].year, library[i].available);
     }
@@ -120,12 +120,12 @@ void display_all_books()
 
 // 显示菜单
 void display_menu() {
-    printf("\n图书管理系统菜单\n");
-    printf("1. 添加图书\n");
-    printf("2. 查找图书\n");
+    printf("\n员工管理系统菜单\n");
+    printf("1. 添加员工\n");
+    printf("2. 查找员工\n");
     printf("3. 借阅图书\n");
     printf("4. 归还图书\n");
-    printf("5. 显示所有图书\n");
+    printf("5. 显示所有员工\n");
     printf("0. 退出系统\n");
 }
 

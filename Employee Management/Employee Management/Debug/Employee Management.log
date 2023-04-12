@@ -1,0 +1,3 @@
+﻿  Employee Management.c
+D:\CODE\C_CODE\Employee Management\Employee Management\Employee Management.c(54,10): warning C4101: “newname”: 未引用的局部变量
+  Employee Management.vcxproj -> D:\CODE\C_CODE\Employee Management\Debug\Employee Management.exe
