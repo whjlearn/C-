@@ -1,0 +1,6 @@
+﻿  test.c
+D:\CODE\C_CODE\SudentInfo\SudentInfo\test.c(32,16): warning C4018: “<”: 有符号/无符号不匹配
+D:\CODE\C_CODE\SudentInfo\SudentInfo\test.c(47,6): warning C4013: “gets”未定义；假设外部返回 int
+D:\CODE\C_CODE\SudentInfo\SudentInfo\test.c(137,6): warning C4101: “i”: 未引用的局部变量
+D:\CODE\C_CODE\SudentInfo\SudentInfo\test.c(373,7): warning C4101: “i”: 未引用的局部变量
+  SudentInfo.vcxproj -> D:\CODE\C_CODE\SudentInfo\Debug\SudentInfo.exe

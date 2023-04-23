@@ -1,0 +1,4 @@
+﻿  test.c
+D:\CODE\C_CODE\test_4_14_string\test_4_14_string\test.c(59,17): warning C4013: “tolower”未定义；假设外部返回 int
+D:\CODE\C_CODE\test_4_14_string\test_4_14_string\test.c(61,17): warning C4013: “toupper”未定义；假设外部返回 int
+  test_4_14_string.vcxproj -> D:\CODE\C_CODE\test_4_14_string\Debug\test_4_14_string.exe
