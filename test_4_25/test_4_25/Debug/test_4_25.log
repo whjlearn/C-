@@ -1,0 +1,5 @@
+﻿  test.c
+D:\CODE\C_CODE\test_4_25\test_4_25\test.c(43,6): error C2084: 函数“void test(int *)”已有主体
+D:\CODE\C_CODE\test_4_25\test_4_25\test.c(41): message : 参见“test”的前一个定义
+D:\CODE\C_CODE\test_4_25\test_4_25\test.c(49,6): error C2084: 函数“void test2(int **)”已有主体
+D:\CODE\C_CODE\test_4_25\test_4_25\test.c(47): message : 参见“test2”的前一个定义
